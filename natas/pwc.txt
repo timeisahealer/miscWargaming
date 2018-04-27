@@ -1,0 +1,14 @@
+if username == valid.username:
+	if password == valid.password:
+Subject to timing attacks on what the username is.
+
+Hashing passwords bit by bit - and stopping as soon as you get to wrong letter. Also subject to timing attacks.
+
+Leniency in locks: how close you can be to the right answer for it to count.
+floats: check for nans.
+XXS: 
+- encode output
+
+reset passwords:
+link with token unique to the user. 
+tokens

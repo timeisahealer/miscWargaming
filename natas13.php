@@ -1,0 +1,3 @@
+\xFF\xD8\xFF\xE0<?
+lol
+?>
